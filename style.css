@@ -1,0 +1,11 @@
+
+.details{
+    display:inline;
+    width:10%; float:left;
+}
+
+.in{
+    display:inline;
+    width:90%;
+    float:left;
+}
